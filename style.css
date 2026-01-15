@@ -32,7 +32,7 @@ body {
     transform: skew(5deg);
     background-color: rgb(218, 166, 166);
     position: absolute;
-    box-shadow: -2px 4px 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 13px rgb(0, 0, 0);
 }
 .box > div {
     margin: 20px 0;
