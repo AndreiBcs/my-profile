@@ -90,13 +90,13 @@ body {
     font-weight: 800;
     font-size: 20px;
 }
-.content a p:hover, .btn:hover, .contact a p:hover {
+.content a p:hover, #btn:hover, .contact a p:hover {
     color:rgb(240, 144, 27)
 }
 .content a {
     text-decoration: none;
 }
-.btn{
+#btn{
     font-size: 20px;
     font-weight: 800;
     color: rgb(94, 8, 8);
